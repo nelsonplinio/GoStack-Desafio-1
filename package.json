@@ -1,0 +1,17 @@
+{
+  "name": "GoStack-Desafio-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nelsonplinio/GoStack-Desafio-1.git",
+  "author": "Nelson Plíni <nelsonplinio94@gmail.com>",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
